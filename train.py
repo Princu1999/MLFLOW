@@ -33,6 +33,8 @@ data[['age', 'fare']] = scaler.fit_transform(data[['age', 'fare']])
 # Create new features
 data['family_size'] = data['sibsp'] + data['parch'] + 1
 
+data = data[data['fare'] < 200]
+
 # Split into numerical and categorical features
 numerical_features = ['age', 'sibsp', 'parch', 'family_size']
 categorical_features = ['sex', 'embarked', 'class', 'adult_male', 'deck', 'embark_town', 'pclass']
