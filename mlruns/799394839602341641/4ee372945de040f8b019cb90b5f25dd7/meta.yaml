@@ -1,0 +1,15 @@
+artifact_uri: file:///home/princu/MLFLOW/mlruns/799394839602341641/4ee372945de040f8b019cb90b5f25dd7/artifacts
+end_time: 1728364901551
+entry_point_name: ''
+experiment_id: '799394839602341641'
+lifecycle_stage: active
+run_id: 4ee372945de040f8b019cb90b5f25dd7
+run_name: upbeat-hawk-146
+run_uuid: 4ee372945de040f8b019cb90b5f25dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728364899361
+status: 3
+tags: []
+user_id: princu

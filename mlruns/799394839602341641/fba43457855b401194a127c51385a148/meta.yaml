@@ -1,0 +1,15 @@
+artifact_uri: file:///home/princu/MLFLOW/mlruns/799394839602341641/fba43457855b401194a127c51385a148/artifacts
+end_time: 1728364903176
+entry_point_name: ''
+experiment_id: '799394839602341641'
+lifecycle_stage: active
+run_id: fba43457855b401194a127c51385a148
+run_name: likeable-hen-837
+run_uuid: fba43457855b401194a127c51385a148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728364901552
+status: 3
+tags: []
+user_id: princu
